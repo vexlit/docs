@@ -5,27 +5,19 @@
 ## Getting Started
 
 - [Quick Start](docs/quick-start.md)
-- [Installation](docs/installation.md)
-- [Configuration](docs/configuration.md)
 
 ## Products
 
-- [Code Security (SAST)](docs/code-security.md) — AST-based taint analysis with 490+ rules
-- [Secret Detection](docs/secret-detection.md) — 200+ patterns for API keys, tokens, and credentials
-- [AI Security](docs/ai-security.md) — AI-powered explanations and fix suggestions
-- [SCA](docs/sca.md) — Software Composition Analysis for dependencies
+- **Code Security (SAST)** — AST-based taint analysis with 490+ rules
+- **Secret Detection** — 200+ patterns for API keys, tokens, and credentials
+- **AI Security** — AI-powered explanations and fix suggestions
+- **SCA** — Software Composition Analysis for dependencies
 
 ## Integrations
 
-- [GitHub Integration](docs/github.md) — PR reviews, SARIF, Check annotations
-- [VSCode Extension](docs/vscode.md) — Real-time inline detection
-- [CI/CD](docs/cicd.md) — GitHub Actions, GitLab CI, Jenkins
-
-## API Reference
-
-- [REST API](docs/api.md)
-- [CLI Reference](docs/cli.md)
-- [SARIF Output](docs/sarif.md)
+- **GitHub Integration** — PR reviews, SARIF, Check annotations
+- **VSCode Extension** — Real-time inline detection
+- **CI/CD** — GitHub Actions, GitLab CI, Jenkins
 
 ## Supported Languages
 
@@ -33,7 +25,7 @@ JavaScript, TypeScript, Python, Java, Go, C#, PHP, Ruby, Rust, Kotlin, Swift, Sc
 
 ## Links
 
-- [Website](https://vexlit.com)
+- [Website](https://www.vexlit.com)
 - [CLI](https://github.com/vexlit/cli)
 - [GitHub Action](https://github.com/vexlit/action)
 - [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=vexlit.vexlit)
