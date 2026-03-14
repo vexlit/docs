@@ -8,8 +8,8 @@
 
 ## Products
 
-- **Code Security (SAST)** — AST-based taint analysis with 490+ rules
-- **Secret Detection** — 200+ patterns for API keys, tokens, and credentials
+- **Code Security (SAST)** — AST-based taint analysis with 6,200+ rules
+- **Secret Detection** — 440+ patterns for API keys, tokens, and credentials
 - **AI Security** — AI-powered explanations and fix suggestions
 - **SCA** — Software Composition Analysis for dependencies
 
