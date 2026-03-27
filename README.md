@@ -25,7 +25,7 @@ JavaScript, TypeScript, Python, Java, Go, C#, PHP, Ruby, Rust, Kotlin, Swift, Sc
 
 ## Links
 
-- [Website](https://www.vexlit.com)
+- [Website](https://vexlit.ai)
 - [CLI](https://github.com/vexlit/cli)
 - [GitHub Action](https://github.com/vexlit/action)
 - [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=vexlit.vexlit)
